@@ -1,3 +1,16 @@
+# Fork changes
+
+This branch (`gh-pages`) should track the upstream working branch (at the time
+of writing this is also `gh-pages`). The only change is this section at the top
+of the README.
+
+The original upstream `master` branch was old and unused, I have deleted this
+branch and created again from the `gh-pages` branch to include the config and
+any possible changes I required for my bucket needs. This fork `master` branch
+is the one deployed to GitHub Pages.
+
+---
+
 Create nice directory listings for s3 buckets using only javascript and HTML.
 
 The listing can be deployed on any site and can also be deployed into a bucket.
